@@ -1,0 +1,22 @@
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\bin\Debug\RollInitiative.exe.config
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\bin\Debug\RollInitiative.exe
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\bin\Debug\RollInitiative.pdb
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\obj\Debug\RollInitiative.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\obj\Debug\RollInitiative.Form1.resources
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\obj\Debug\RollInitiative.Properties.Resources.resources
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\obj\Debug\RollInitiative.csproj.GenerateResource.Cache
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\obj\Debug\RollInitiative.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\obj\Debug\RollInitiative.exe
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\obj\Debug\RollInitiative.pdb
+C:\Users\Alex\source\repos\RollInitiative\RollInitiative\obj\Debug\RollInitiative.Form2.resources
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\bin\Debug\RollInitiative.exe.config
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\bin\Debug\RollInitiative.exe
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\bin\Debug\RollInitiative.pdb
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\obj\Debug\RollInitiative.csprojResolveAssemblyReference.cache
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\obj\Debug\RollInitiative.Form1.resources
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\obj\Debug\RollInitiative.Form2.resources
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\obj\Debug\RollInitiative.Properties.Resources.resources
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\obj\Debug\RollInitiative.csproj.GenerateResource.Cache
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\obj\Debug\RollInitiative.csproj.CoreCompileInputs.cache
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\obj\Debug\RollInitiative.exe
+C:\Users\craze\Documents\Visual Studio 2017\Projects\RollInitiative\RollInitiative\obj\Debug\RollInitiative.pdb
