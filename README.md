@@ -1,0 +1,2 @@
+# RollInit
+Simple Initiative Tracker
